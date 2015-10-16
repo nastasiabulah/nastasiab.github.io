@@ -1,0 +1,30 @@
+#head {
+	text-align: center;
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+#sheet{
+	width: 595px;
+	height: 842px;
+	margin: 10px;
+	margin-left:250px;
+	padding: 35px;
+	background-color: white;
+	font: 16pt/19pt serif;
+	}
+
+#Portret {
+	height: 180px;
+}
+
+p{
+	margin: 10px;
+	padding: 10px;
+}
+
+hr{
+	width: 100%;
+}
